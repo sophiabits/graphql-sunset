@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/stylistic",
+    "plugin:prettier/recommended"
+  ],
+  "overrides": [
+    { "files": "**/*", "rules": { "@typescript-eslint/no-explicit-any": "off"  } }
+  ]
+}
