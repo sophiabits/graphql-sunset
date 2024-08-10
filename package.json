@@ -14,9 +14,10 @@
     "header"
   ],
   "license": "MIT",
+  "author": "Sophia Willows <hello@sophiabits.com> (https://sophiabits.com/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sophiabits/connected-dataloader"
+    "url": "https://github.com/sophiabits/graphql-sunset"
   },
   "sideEffects": false,
   "scripts": {
@@ -28,7 +29,6 @@
     "prepare": "npm run build",
     "test": "vitest"
   },
-  "author": "",
   "devDependencies": {
     "@apollo/utils.logger": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.1",
