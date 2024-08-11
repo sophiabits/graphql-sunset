@@ -64,3 +64,4 @@ Easily add support for the [`Sunset` header](http://sophiabits.com/blog/what-is-
 - [x] Field arguments
 - [x] Input object fields
 - [ ] Enum values
+- [ ] Envelop server plugin
